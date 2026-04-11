@@ -1,0 +1,384 @@
+C1orf112: encoding protein Chromosome 1 open reading frame 112
+C1orf127: encoding protein Chromosome 1 open reading frame 127
+C1orf27: encoding protein Chromosome 1 open reading frame 27
+C1orf38: encoding protein Chromosome 1 open reading frame 38
+CCDC181: encoding protein Coiled-coil domain-containing protein 181
+DENND1B: hypothesized to be related to asthma
+FHAD1: encoding protein Forkhead-associated domain containing protein 1
+LOC100132287: uncharacterized protein
+LRRIQ3: encoding protein Leucine-rich repeats and IQ motif containing 3
+Shisa family member 4: encoding protein Shisa family member 4
+TINAGL1: encoding protein Tubulointerstitial nephritis antigen-like
+p-arm
+Partial list of the genes located on p-arm (short arm) of human chromosome 1:
+
+AADACL3: Arylacetamide deacetylase-like 3
+AADACL4: Arylacetamide deacetylase-like 4
+ACADM: acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain
+ACTG1P6: encoding protein Actin, gamma 1 pseudogene 6
+ACTL8: Actin-like 8
+ADGRL2 (1p31.1): adhesion G protein-coupled receptor L2
+ADPRHL2: Poly(ADP-ribose) glycohydrolase ARH3
+AMPD2: encoding enzyme AMP deaminase 2
+ARID1A (1p36)
+ATXN7L2: Ataxin 7-like 2
+AZIN2: encoding enzyme Antizyme inhibitor 2 (AzI2) also known as arginine decarboxylase (ADC)
+BCAS2: Breast carcinoma amplified sequence 2
+BCL10 (1p22)
+LRIF1: encoding protein Ligand-dependent nuclear receptor-interacting factor 1
+C1orf109: chromosome 1 open reading frame 109
+C1orf162: encoding protein Chromosome 1 open reading frame 162
+C1orf194: encoding protein Chromosome 1 open reading frame 194
+CZIB: chromosome 1 open reading frame 123
+CACHD1 encoding protein Cache domain containing 1
+CAMK2N1: encoding protein Calcium/calmodulin dependent protein kinase II inhibitor 1
+CAMTA1 (1p36)
+CASP9 (1p36)
+CASZ1 (1p36): Castor zinc finger 1
+CCDC17: encoding protein Coiled-coil domain containing 17
+CCDC18: encoding protein Coiled-coil domain containing 18
+CEP85: encoding protein Centrosomal protein 85
+CFAP74: encoding protein Cilia and flagella associated protein 74
+CHD5 (1p36)
+CLIC4 (1p36)
+CLSPN (1p34)
+CMPK: UMP-CMP kinase
+COL16A1 (1p35)
+COL11A1: collagen, type XI, alpha 1
+CPT2: carnitine palmitoyltransferase II
+CRYZ: Crystallin zeta
+CSDE1: Cold shock domain containing E1
+CYP4B1 (1p33)
+CYR61 (1p22)
+DBT: dihydrolipoamide branched chain transacylase E2
+DCLRE1B: DNA cross-link repair 1B
+DEPDC1 encoding protein DEP domain containing 1
+DIRAS3 (1p31): DIRAS family, GTP-binding RAS-like 3
+DISP3: encoding protein Dispatched rnd transporter family member 3
+DNASE2B: encoding protein Deoxyribonuclease 2 beta
+DPH5: Diphthine synthase
+DVL1 (1p36)
+ENO1 (1p36)
+EPHA2 (1p36)
+EPS15 (1p32)
+ESPN: espin (autosomal recessive deafness 36)
+EVI5: ecotropic viral integration site 5
+EXO5: encoding protein Exonuclease 5
+EXTL1: exostosin like glycosyltransferase 1
+EXTL2: exostosin like glycosyltransferase 2
+FAAH: Fatty-acid amide hydrolase 1
+FAM46B: family with sequence similarity 46, member B
+FAM46C: family with sequence similarity 46, member C
+FAM76A: family with sequence similarity 76, member A
+FAM87B: encoding protein Family with sequence similarity 87 member B
+FBXO2: F-box protein 2
+FNBP1L encoding protein Formin-binding protein 1-like
+FPGT: Fucose-1-phosphate guanylyltransferase
+FUBP1 (1p31)
+GALE: UDP-galactose-4-epimerase
+GADD45A (1p31)
+GBP1 (1p22)
+GBP2: guanylate binding protein 2
+GBP5 encoding protein Guanylate binding protein 5
+GBP6: encoding protein Guanylate binding protein family member 6
+GJB3: gap junction protein, beta 3, 31kDa (connexin 31)
+GLMN (1p22)
+GNL2: G protein nucleolar 2
+GSTM1 (1p13)
+GUCA2B: encoding protein Guanylate cyclase activator 2B
+HDAC1 (1p35)
+HES2: Hes family bHLH transcription factor 2
+HES3: Hes family bHLH transcription factor 3
+HMGCL: 3-hydroxymethyl-3-methylglutaryl-Coenzyme A lyase (hydroxymethylglutaricaciduria)
+HAO2 encoding protein Hydroxyacid oxidase 2
+HMGCS2: 3-hydroxy-3-methylglutaryl-CoA synthase 2
+HP1BP3: Heterochromatin protein 1, binding protein 3
+IFI6: Interferon alpha-inducible protein 6
+IL22RA1 (1p36)
+INTS11: Integrator complex subunit 11
+JAK1 (1p31)
+JUN (1p32)
+KANK4: encoding protein KN motif and ankyrin repeat domains 4
+KCNQ4: potassium voltage-gated channel, KQT-like subfamily, member 4
+KIF1B: kinesin family member 1B
+L1TD1: LINE-1 type transposase domain containing 1
+LCK (1p35)
+LINC01137: encoding protein Long intergenic non-protein coding RNA 1137
+LRRC39: Leucine-rich repeat-containing protein 39
+LRRC40: Leucine-rich repeat-containing protein 40
+LRRC41: Leucine-rich repeat-containing protein 41
+LRRC8D: Leucine-rich repeat-containing protein 8D
+MACO1: encoding protein Transmembrane protein 57
+MAN1A2: Mannosyl-oligosaccharide 1,2-alpha-mannosidase IB
+MAP3K6: encoding protein Mitogen-activated protein kinase kinase kinase 6
+MEAF6: MYST/ESA1 associated factor 6
+MECR: Trans-2-enoyl-CoA reductase, mitochondrial
+MFAP2: Microfibrillar-associated protein 2
+MIB2 (1p36)
+MIER1 (1p31)
+MIGA1: encoding protein Mitoguardin 1
+MFN2: mitofusin 2
+MFSD2: Major facilitator superfamily domain containing 2A
+MIR6079: microRNA 6079
+MMEL1: Membrane metallo-endopeptidase-like 1
+MTFR1L: mitochondrial fission regulator 1 like
+MTHFR (1p36): 5,10-methylenetetrahydrofolate reductase (NADPH)
+MUL1: Mitochondrial E3 ubiquitin protein ligase 1
+MUTYH (1p34): mutY homolog (E. coli)
+NBPF3: Neuroblastoma breakpoint family member 3
+NDUFA4P1: encoding protein Nadh dehydrogenase (ubiquinone) 1 alpha subcomplex, 4, 9kda, pseudogene 1
+NGF: Nerve Growth Factor
+NOL9: Nucleolar protein 9
+NRAS (1p13)
+NOTCH2 (1p12)
+OLFML3: Olfactomedin-like 3
+OMA1: Metalloendopeptidase OMA1, mitochondrial
+OVGP1: Oviductal glycoprotein 1
+PARK7 (1p36): Parkinson disease (autosomal recessive, early onset) 7
+PINK1: PTEN induced putative kinase 1
+PLOD1: procollagen-lysine 1, 2-oxoglutarate 5-dioxygenase 1
+PRAMEF10: encoding protein Prame family member 10
+PRMT6: Protein arginine methyltransferase 6
+PRXL2B: encoding protein Peroxiredoxin like 2B
+PSRC1: Proline/serine-rich coiled-coil protein 1
+RAD54L: RAD54-like
+RAP1A (1p13)
+RBM15 (1p13)
+RCC2: Regulator of chromosome condensation 2
+REG4 (1p12)
+RHBDL2: Rhomboid like 2
+RHOC (1p13)
+RIMS3: encoding protein Regulating synaptic membrane exocytosis 3
+RLF: rearranged L-myc fusion
+RNF11 (1p32)
+RNF19B: encoding protein Ring finger protein 19B
+RNF220: RING finger protein 220
+RPA2 (1p35)
+RSPO1 (1p34)
+S100A1 (1q21)
+SAMD11: encoding protein Sterile alpha motif domain containing 11
+SDC3: Syndecan-3
+SDHB (1p36)
+SFPQ (1p34): encoding protein Splicing factor proline and glutamine rich
+SGIP1: SH3 domain GRB2-like protein 3-interaction protein 1
+SH3BGRL3: SH3 domain-binding glutamic acid-rich-like protein 3
+SLC16A1 (1p13)
+SLC2A1 Glucose transporter 1
+SPSB1: SPRY domain-containing SOCS box protein 1
+STIL (1p33)
+SYCP1: Synaptonemal complex protein 1
+SZT2: Seizure threshold 2 homolog
+TACSTD2: tumor-associated calcium signal transducer 2
+TAL1 (1p33)
+TCTEX1D4: encoding protein Tctex1 domain containing 4
+TCEB3: Transcription elongation factor B polypeptide 3
+TGFBR3 (1p22)
+THRAP3 (1p34)
+TIE1 (1p34)
+TM2D1: encoding protein Tm2 domain containing 1
+TMCO2: encoding protein transmembrane and coiled-coil domains 2
+TMCO4: encoding protein transmembrane and coiled-coil domains 4
+TMEM48: encoding protein nucleoporin NDC1
+TMEM50A: Transmembrane protein 50A
+TMEM59: Transmembrane protein 59
+TMEM69: Transmembrane protein 69
+TMEM201 encoding protein Transmembrane protein 201
+TMEM222: Transmembrane protein 222
+TOE1: Target of EGR1 protein 1
+TRABD2B: encoding protein Trab domain containing 2b
+TRAPPC3: Trafficking protein particle complex subunit 3
+TRIT1: tRNA isopentenyltransferase, mitochondrial
+TSHB: thyroid stimulating hormone, beta
+TTC39A: Tetratricopeptide repeat 39A
+UBR4: E3 ubiquitin-protein ligase component n-recognin 4
+UROD: uroporphyrinogen decarboxylase (the gene for porphyria cutanea tarda)
+USP1 (1p31)
+USP48: Ubiquitin carboxyl-terminal hydrolase 48
+VAV3 (1p13)
+VPS13D: Vacuolar protein sorting-associated protein 13D
+VTCN1 (1p13)
+WARS2: Tryptophanyl-tRNA synthetase, mitochondrial
+WDR77 (1p13)
+YBX1 (1p34)
+ZCCHC17: zinc finger CCHC-type containing 17
+ZFP69: encoding protein Zfp69 zinc finger protein
+ZMYM1 encoding protein Zinc finger MYM-type containing 1
+ZNF436: Zinc finger protein 436
+ZNF684: encoding protein Zinc finger protein 684
+ZYG11B encoding protein Zyg-11 family member B, cell cycle regulator
+ZZZ3: ZZ-type zinc finger-containing protein 3
+q-arm
+Partial list of the genes located on q-arm (long arm) of human chromosome 1:
+
+ABL2 (1q25)
+ADIPOR1 (1q32)
+AHCTF1: encoding protein ELYS
+AKT3 (1q43-44)
+ANGPTL1: Angiopoietin-related protein 1
+ARHGEF2 (1q22)
+ARID4B: encoding protein AT-rich interactive domain-containing protein 4B
+ARV1 encoding protein ARV1 homolog (S. cerevisiae)
+ARNT (1q21)
+ASPM (1q31): a brain size determinant
+ATF3 (1q32)
+ATP2B4 (1q32)
+BCL9 (1q21)
+CATSPERE: encoding protein Catsper channel auxiliary subunit epsilon
+C1orf21: chromosome 1 open reading frame 21
+MMTAP2 encoding protein Multiple myeloma tumor-associated protein 2
+TEX35: TEX35
+C1orf74: chromosome 1 open reading frame 74
+C2CD4D: C2 calcium-dependent domain-containing 4D
+CTSS: Cathepsin S
+CD5L: CD5 molecule like
+CENPL: Centromere protein L
+CENPF (1q41)
+CHTOP: Chromatin target of prmt1
+CNIH4: cornichon homolog 4
+CNST: Consortin
+CREG1: Cellular repressor of E1A stimulated genes 1
+CRP: C-reactive protein
+CRTC2 (1q21)
+CSRP1: Cysteine and glycine rich protein 1
+DCAF8: encoding protein DDB1 and CUL4 associated factor 8
+DDX59: DEAD-box helicase 59
+DEL1Q21: encoding protein Chromosome 1q21.1 deletion syndrome
+DPT: Dermatopontin
+DISC2, long non-coding RNA
+DNAH14 encoding protein Dynein, axonemal, heavy chain 14
+DUSP10 (1q41)
+DUSP27: encoding protein Dual specificity phosphatase 27 (putative)
+DARS2 (1q25.1)
+ECM1 (1q21)
+EDEM3: ER degradation enhancing alpha-mannosidase like protein 3
+EGLN1 (1q42)
+ELF3: encoding protein E74 like ets transcription factor 3
+ENAH (1q42)
+ESRRG (1q41)
+FAM129A: family with sequence similarity 129, member A
+FAM163A: encoding protein neuroblastoma-derived secretory protein
+FAM20B: FAM20B, glycosaminoglycan xylosylkinase
+FAM63A: Family with sequence similarity 63, member A
+FAM78B: family with sequence similarity 78, member B
+FAM89A: encoding protein Fam89A
+FBXO28: F-box protein 28
+FCMR: Fc fragment of IgM receptor
+FCGR2B (1q23)
+FCGR2C: encoding protein Fc fragment of igg receptor iic (gene/pseudogene)
+FH (1q43): fumarase
+FLAD1: encoding protein Flavin adenine dinucleotide synthetase 1
+FLG-AS1: encoding protein FLG antisense RNA 1
+FMO3: flavin containing monooxygenase 3
+FRA1J encoding protein Fragile site, 5-azacytidine type, common, fra(1)(q12)
+G0S2: encoding G0/G1 switch 2
+GAS5 (1q25)
+GBA: glucosidase, beta; acid (includes glucosylceramidase) (gene for Gaucher disease)
+GBAP1: glucosylceramidase beta pseudogene 1
+GLC1A: gene for glaucoma
+GON4L: gon-4 like
+GPA33 (1q24)
+GPR37L1 G protein-coupled receptor 37 like 1
+H3C13: encoding protein Histone cluster 2 h3 family member d
+HEATR1: HEAT repeat-containing protein 1
+HFE2: hemochromatosis type 2 (juvenile)
+HIST2H2AB: Histone 2A type 2-B
+HIST2H2BF: Histone H2B type 2-F
+HIST2H3PS2: Histone cluster 2, H3, pseudogene 2
+HIST3H2A: Histone H2A type 3
+HIST3H2BB: Histone H2B type 3-B
+HRM2: Hair, curly
+IGSF8 (1q23)
+INAVA: Innate immunity activator protein
+INTS3: Integrator complex subunit 3
+IRF2BP2: encoding protein Interferon regulatory factor 2 binding protein 2
+IRF6: gene for connective tissue formation
+KCNH1 (1q32)
+KIF14 (1q32)
+LEFTY1: Left-right determination factor 1
+LHX9 encoding protein LIM homeobox 9
+LMNA: lamin A/C
+LMOD1: encoding protein Leiomodin 1
+LOC645166 encoding protein Lymphocyte-specific protein 1 pseudogene
+LYPLAL1: Lysophospholipase-like 1
+MAPKAPK2 (1q32)
+MIR194-1: microRNA 194-1
+MIR5008: microRNA 5008
+MPC2: Mitochondrial pyruvate carrier 2
+MOSC1: MOCO sulphurase C-terminal domain containing 1
+MOSC2: MOSC domain-containing protein 2, mitochondrial
+MPZ: myelin protein zero (Charcot–Marie–Tooth neuropathy 1B)
+MSTO1: misato 1
+MTR: 5-methyltetrahydrofolate-homocysteine methyltransferase
+NAV1: Neuron navigator 1
+NBPF16: Neuroblastoma breakpoint family, member 16
+NOC2L: Nucleolar complex protein 2 homolog
+NUCKS1: Nuclear ubiquitous casein and cyclin-dependent kinases substrate
+NVL: Nuclear valosin-containing protein-like
+OLFML2B: Olfactomedin-like 2B
+OPTC: Opticin
+OTUD7B: OTU domain-containing protein 7B
+PACERR encoding protein PTGS2 antisense NFKB1 complex-mediated expression regulator RNA
+PBX1 (1q23)
+PEA15 (1q23)
+PGDB5: PiggyBac transposable element derived 5
+PIAS3 (1q21)
+PI4KB: Phosphatidylinositol 4-kinase beta
+PIP5K1A (1q21): Phosphatidylinositol-4-phosphate 5-kinase type-1 alpha
+PLA2G4A (1q31)
+PPOX: protoporphyrinogen oxidase
+PRCC (1q23)
+PRR9 encoding protein Proline rich 9
+PSEN2 (1q42): presenilin 2 (Alzheimer disease 4)
+PTGS2 (1q31)
+PTPN14 (1q32-41)
+PTPN7 (1q32)
+RABIF: RAB interacting factor
+RASSF5 (1q32)
+RGS2 (1q31)
+RN5S1@: RNA, 5S ribosomal 1q42 cluster
+RPS27 (1q21)
+SCAMP3: Secretory carrier-associated membrane protein 3
+SDHC (1q23)
+SELE (1q24)
+SFT2D2: encoding protein Sft2 domain containing 2
+SHC1 (1q21)
+SHCBP1L: encoding protein Shc binding and spindle associated 1 like
+SLC30A10: encoding protein Solute carrier family 30 member 10
+SLC39A1 (1q21)
+SLC50A1: Solute carrier family 50 member 1
+SMCP: Sperm mitochondrial-associated cysteine-rich protein
+SMG7: nonsense mediated mRNA decay factor
+SMYD3 (1q44)
+SPG23
+SPRR1A: Cornifin-A
+SPRR1B: Cornifin-B
+SPRR2A: Small proline rich protein 2A
+SPRTN: Spartan
+TARBP1: TAR (HIV-1) RNA-binding protein 1
+TBCE: Tubulin-specific chaperone E
+THBS3: Thrombospondin 3
+TMCO1: Transmembrane and coiled-coil domain-containing protein 1
+TMEM9: Transmembrane protein 9
+TMEM63A: Transmembrane protein 63A
+TMEM81: Transmembrane protein 81
+TNFAIP8L2: encoding TNF alpha induced protein 8 like 2
+TNFSF18 (1q25)
+TNNT2: cardiac troponin T2
+TOR1AIP1: Torsin-1A-interacting protein 1
+TOR3A: encoding protein Torsin family 3 member A
+TP53BP2 (1q41)
+TRE-CTC1-5: Transfer RNA-Glu (CTC) 1-5
+UAP1: UDP-N-acetylhexosamine pyrophosphorylase
+USH2A: Usher syndrome 2A (autosomal recessive, mild)
+USF1 (1q23)
+VANGL2: encoding protein VANGL planar cell polarity protein 2
+VPS45: Vacuolar protein sorting-associated protein 45
+VPS72: Vacuolar protein sorting-associated protein 72
+YY1AP1: YY1-associated protein 1
+ZBED6: zinc finger, BED-type containing 6
+ZC3H11A: Zinc finger CCCH domain-containing protein 11A
+ZNF648 encoding protein Zinc finger protein 648
+ZNF669: Zinc finger protein 669
+ZNF687: Zinc finger protein 687
+ZNF692: Zinc finger protein 692
+ZNF695: Zinc finger protein 695
