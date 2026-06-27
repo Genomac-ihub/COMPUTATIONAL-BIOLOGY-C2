@@ -1,0 +1,46 @@
+⏸ vibe-learn — what just happened:
+Goal: study the jupyter notebook in this repo. Reformat it into a beginners introduction to machine learning. The dataset used is genomic data which is good for the audience (mostly biologists). Add explana
+
+  ✦ Ran: find /home/reyes/COMPUTATIONAL-BIOLOGY-C2/bootcamp-week-14-Introduction=to-Machine-Learning-and-Feature-Engineering -iname "*.ipynb" 2>/dev/null
+  ✦ Ran: ls -la && echo "---FILES---" && find . -type f | head -50
+  ✦ Ran: python3 -c "
+import json
+nb = json.load(open('Introduction_to_Machine_learning_for_genomics_data.ipynb'))
+print('nbformat', nb.get('nbformat'), nb.get('nbformat_minor'))
+print('total cells:', len(nb['
+  ✦ Ran: python3 -c "
+import json
+nb = json.load(open('Introduction_to_Machine_learning_for_genomics_data.ipynb'))
+for i, c in enumerate(nb['cells']):
+    src = ''.join(c['source'])
+    print(f'===== CELL [{i:
+  ✦ Ran: python3 -c "
+import json
+nb = json.load(open('Introduction_to_Machine_learning_for_genomics_data.ipynb'))
+for i in [43,45]:
+    c=nb['cells'][i]
+    print(f'===== CELL [{i}] =====')
+    print(''.join(
+  ✦ Ran: cd "/home/reyes/COMPUTATIONAL-BIOLOGY-C2/bootcamp-week-14-Introduction=to-Machine-Learning-and-Feature-Engineering" && ls -la && python3 -c "import json,sys; nb=json.load(open('Introduction_to_Machine
+  ✦ Ran: cd "/home/reyes/COMPUTATIONAL-BIOLOGY-C2/bootcamp-week-14-Introduction=to-Machine-Learning-and-Feature-Engineering" && python3 -c "
+import json
+nb=json.load(open('Introduction_to_Machine_learning_for_
+  ✦ Ran: cd "/home/reyes/COMPUTATIONAL-BIOLOGY-C2/bootcamp-week-14-Introduction=to-Machine-Learning-and-Feature-Engineering" && python3 -c "
+import json
+nb=json.load(open('Introduction_to_Machine_learning_for_
+  ✦ Ran: cd "/home/reyes/COMPUTATIONAL-BIOLOGY-C2/bootcamp-week-14-Introduction=to-Machine-Learning-and-Feature-Engineering" && python3 -c "
+import json
+nb=json.load(open('Introduction_to_Machine_learning_for_
+  ✦ Created /home/reyes/COMPUTATIONAL-BIOLOGY-C2/bootcamp-week-14-Introduction=to-Machine-Learning-and-Feature-Engineering/_apply_edits.py
+  ✦ Ran: cd "/home/reyes/COMPUTATIONAL-BIOLOGY-C2/bootcamp-week-14-Introduction=to-Machine-Learning-and-Feature-Engineering" && python3 _apply_edits.py
+  ✦ Ran: cd "/home/reyes/COMPUTATIONAL-BIOLOGY-C2/bootcamp-week-14-Introduction=to-Machine-Learning-and-Feature-Engineering" && python3 -c "
+import json
+nb=json.load(open('Introduction_to_Machine_learning_for_
+  ✦ Ran: cd "/home/reyes/COMPUTATIONAL-BIOLOGY-C2/bootcamp-week-14-Introduction=to-Machine-Learning-and-Feature-Engineering" && python3 -c "
+import nbformat
+nb=nbformat.read('Introduction_to_Machine_learning_f
+  ✦ Ran: cd "/home/reyes/COMPUTATIONAL-BIOLOGY-C2/bootcamp-week-14-Introduction=to-Machine-Learning-and-Feature-Engineering" && rm -f _apply_edits.py && python3 -c "
+import json
+nb=json.load(open('Introduction
+
+ /learn [question]  ·  /digest  ·  vibe-learn briefing  ·  vibe-learn audio-prep
