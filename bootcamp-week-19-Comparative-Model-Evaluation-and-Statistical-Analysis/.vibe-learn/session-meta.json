@@ -1,0 +1,9 @@
+{
+  "session_id": "019fbc86-8cdf-7b90-ae1e-8d206ce24ed1",
+  "started_at": "2026-08-01T08:53:23Z",
+  "event_count": 0,
+  "current_turn": 1,
+  "config": {
+    "log_dir": ".vibe-learn"
+  }
+}
